@@ -33,12 +33,15 @@ menthod yang saya gunakan
 dengan pembacaan hasil 
 
 Selamat Datang di Bank ABC
+
 Saldo Saat Ini  : Rp.100000
 
 Simpan Uang     : Rp.500000
+
 Saldo Saat Ini  : Rp.600000
 
 Ambil Uang      : Rp.150000
+
 Saldo Saat Ini  : Rp.450000
 
 lebih jelasnya bisa run link yang tertera di atas dengan src = tabungan.java
